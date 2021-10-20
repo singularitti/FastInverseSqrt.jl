@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+FastInverseSqrt = "8188a7ed-a01c-4688-9219-cd32f36195ff"
