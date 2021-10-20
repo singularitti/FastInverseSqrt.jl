@@ -21,5 +21,6 @@ function rsqrt(number::Float64)
     y *= 1.5 - x2 * y^2
     return y
 end
+rsqrt(number::Real) = rsqrt(float(number))
 
 end
